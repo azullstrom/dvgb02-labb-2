@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/azullstrom/Documents/Karlstads Universitet/Datakommunikation/Labb 2/Lab_2_Source_Code",
+      "program": "/Users/azullstrom/Documents/Karlstads Universitet/Datakommunikation/Labb 2/Lab_2_Source_Code/build/Debug/outDebug"
+    }
+  ]
+}
